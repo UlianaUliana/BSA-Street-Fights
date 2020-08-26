@@ -1,4 +1,6 @@
-# stage-2-es6-for-everyone
+# Street Fighter
+
+This is a student project, created as homework during BSA'20.
 
 ## Instalation
 
